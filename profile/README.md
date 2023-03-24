@@ -15,7 +15,8 @@
   ![image](https://user-images.githubusercontent.com/104711336/227540750-c8e96677-a54d-49dd-a546-6ce71c931ab2.png)<br>
   대시보드의 주 기능을 한눈에 볼 수 있도록 업무에 있어서 세부적인 기능들은 왼쪽 사이드바를 통해 해당 업무 페이지에서 편하게 작업할 수 있도록 메뉴를 만들었습니다.<br>
   - right<br>
-  ![image](https://user-images.githubusercontent.com/104711336/227546328-7a6230cd-50dc-4193-9a92-ca519511afdc.png)
+  ![image](https://user-images.githubusercontent.com/104711336/227546328-7a6230cd-50dc-4193-9a92-ca519511afdc.png)![image](https://user-images.githubusercontent.com/104711336/227548807-9ee89fd5-ab85-42e2-b06d-ecff988bc902.png)
+
 
   관리자 업무 페이지이다 보니 관리자들의 현재 접속 상태와 업무 리스트를 생성했습니다. 해당 사이드바는 버튼 클릭시 화면에 나타나고, 사라지도록 동적 기능을 추가하여 메인 컨텐츠의 영역을 조금 더 넓힐 수 있도록 구성하였습니다. <br>
 <br>
